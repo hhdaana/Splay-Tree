@@ -42,6 +42,7 @@ struct Node
 	string key;
 	int ht;
 	int value;
+	int var;
 	Node* left;
 	Node* right;
 	Node* parent;
