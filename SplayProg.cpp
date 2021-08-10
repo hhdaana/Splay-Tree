@@ -44,6 +44,7 @@ struct Node
 	int value;
 	int var;
 	int git;
+	int hadi;
 	Node* left;
 	Node* right;
 	Node* parent;
