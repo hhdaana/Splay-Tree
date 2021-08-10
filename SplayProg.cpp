@@ -43,6 +43,7 @@ struct Node
 	int ht;
 	int value;
 	int var;
+	int git;
 	Node* left;
 	Node* right;
 	Node* parent;
